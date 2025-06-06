@@ -76,7 +76,7 @@ The domain-specific task for **Machine Learning** has not yet been published. Aw
 
 ## 🙋 About Me
 
-- **Name**: Abimanyu Choudhary
+- **Name**: Abimanyu Choudhary K
 - **Year**: 1st Year B.Tech (2024–2028)
 - **Domains of Interest**: Cybersecurity, Machine Learning, Networking
 
