@@ -28,7 +28,7 @@ Used advanced Google Dorking techniques to discover exposed digital assets (docu
   - Emails and contact information
 
 - **Deliverable**:
-  - [`View Google Dorking Report (Cybersecurity Task)`](./common/Google_Dork-Based_Asset_Discovery/Common_task_1.md) — Contains dorks used, results with links.
+  - [`View Google Dorking Report`](./common/Google_Dork-Based_Asset_Discovery/Common_task_1.md) — Contains dorks used, results with links.
 
 ---
 
@@ -64,7 +64,7 @@ Performed packet capture analysis using Wireshark on the provided `.pcap` file.
   - Evidence of decoy attempts and uncommon port usage
 
 - **Deliverable**:
-  - [`View PCAP Analysis Answers (Networking Task)`](./common/computer_networking/Common_task_1.pdf) — Contains answers to all 10 provided networking questions
+  - [`View PCAP Analysis Answers`](./common/computer_networking/Common_task_1.pdf) — Contains answers to all 10 provided networking questions
 
 ---
 
